@@ -1,0 +1,3 @@
+[submodule "AccSharedMemory"]
+	path = AccSharedMemory
+	url = git@github.com:G3R-Project/AccSharedMemory.git

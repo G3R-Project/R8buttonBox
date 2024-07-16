@@ -1,0 +1,26 @@
+{
+    "starter":{
+        "type":"hold",
+        "binding":"page up"
+    },
+    "ignitionOn":{
+        "type":"release",
+        "binding":"page down"
+    },
+    "EngineMap":{
+        "type":"select",
+        "binding":{"1":["shift","f1"],
+            "2":["shift","f2"],
+            "3":["shift","f3"],
+            "4":["shift","f4"],
+            "5":["shift","f5"],
+            "6":["shift","f6"],
+            "7":["shift","f7"],
+            "8":["shift","f8"],
+            "9":["shift","f9"],
+            "10":["shift","f10"],
+            "11":["shift","page up"],
+            "12":["shift","page down"]
+        }
+    }
+}
